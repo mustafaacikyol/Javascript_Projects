@@ -5,7 +5,7 @@ let button = document.querySelector("button");
 let text = document.getElementById("text");
 
 function getColor() {
-    return Math.floor(Math.random() * 15);
+    return Math.floor(Math.random() * (colorArr.length - 1));
 }
 
 button.addEventListener("click", function changeBackgroundColor() {
