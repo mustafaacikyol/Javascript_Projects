@@ -1,4 +1,4 @@
-# Javascript_Projects
+# Javascript Projects
 In this repository you can examine some good Javascript projects.
 
 In projects there are HTML, CSS and Javascript files.
