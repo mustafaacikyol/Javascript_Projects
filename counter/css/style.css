@@ -1,0 +1,15 @@
+body main div {
+    text-align: center;
+    margin-top: 20%;
+}
+
+body main div span {
+    display: block;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+body main div button {
+    margin: 20px;
+    padding: 7px;
+}
