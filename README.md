@@ -10,7 +10,7 @@ In some projects I used CDN to get Bootstrap CSS. So you can't see any bootstrap
 Enjoy the projects.
 
 ## Projects
-### 1. Create a Color Flipper
+### 1. Color Flipper
 When you are in index.html page you can click button and you can see the change of background color with just four colors and their names are seen in the screen.
 
 Also when you are in hex.html page you can click button and you can see the change of background color with infinite color and their hex code in the screen.
