@@ -22,6 +22,10 @@ If the counter shows positive number then its color will be green and if the cou
 
 If you click reset button then its color black and it shows zero.
 
+### 3. Review Carousel
+In this project you will se a review carousel and random button. 
+
+When you click "Surprise Me" button then it shows randomly informations and images.
 
 
 
