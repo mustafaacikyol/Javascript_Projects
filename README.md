@@ -27,5 +27,12 @@ In this project you will see a review carousel and random button.
 
 When you click "Surprise Me" button then it shows randomly informations and images.
 
+### 4. Responsive Navbar
+One breakpoint is used in this responsive project and it is 992 px.
+
+On devices with a screen width of less than 991 px, you will see a hamburger menu and when you click on this menu, you will see the links that drop down.
+
+On devices with a screen width greater than 991 px, you will be able to see the links in one line.
+
 
 
