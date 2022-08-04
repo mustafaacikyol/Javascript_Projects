@@ -34,5 +34,17 @@ On devices with a screen width of 991px and lower, you will see a hamburger menu
 
 On devices with a screen width greater than 991 px, you will be able to see the links wit the brand logo in one line.
 
+### 5. Sidebar
+There are two breakpoints(768px and 992px) in this project.
+
+On screens smaller than 768px, you will see a sidebar that fills the entire screen.
+
+In the range of 768px and 992px screen width, you will see a sidebar that takes up half of the screen.
+
+On screens larger than 992px, you will see a sidebar that takes up 40% of the screen.
+
+In this project, when the hamburger menu button is clicked, we add the 'show-sidebar' class for the sidebar, if it does not contain it, we remove it if it does.
+
+When the cross button is clicked on the sidebar menu that opens, we remove the 'show-sidebar' class for the sidebar.
 
 
