@@ -47,4 +47,9 @@ In this project, when the hamburger menu button is clicked, we add the 'show-sid
 
 When the cross button is clicked on the sidebar menu that opens, we remove the 'show-sidebar' class for the sidebar.
 
+### 6. Modal
+In this project, when you click the open modal button, a modal is opened to cover the entire screen you are on.
 
+You can close the modal by clicking the cross icon.
+
+In this project, the class named 'show-modal' is added or removed and the modal is opened and closed via buttons.
