@@ -53,3 +53,10 @@ In this project, when you click the open modal button, a modal is opened to cove
 You can close the modal by clicking the cross icon.
 
 In this project, the class named 'show-modal' is added or removed and the modal is opened and closed via buttons.
+
+### 7. Frequently Asked Questions
+In this section, when you click on the question, the answer is opened and at the same time, if there is a question with an open answer, its answer is also closed.
+
+The answer to the question is opened and closed by toogle with the 'show-text' class.
+
+With the forEach loop, when another question is clicked, the answer to the open question is closed.
