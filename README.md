@@ -60,3 +60,14 @@ In this section, when you click on the question, the answer is opened and at the
 The answer to the question is opened and closed by toogle with the 'show-text' class.
 
 With the forEach loop, when another question is clicked, the answer to the open question is closed.
+
+### 8. Menu
+There is a restaurant menu in this project.
+
+All dishes are displayed on the page when the page is loaded.
+
+When the button of the dishes divided into types is clicked, those dishes are listed.
+
+The buttons update themselves dynamically when a new food type is added.
+
+Map, reduce, filter and join are used in this project.
