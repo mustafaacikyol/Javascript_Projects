@@ -71,3 +71,8 @@ When the button of the dishes divided into types is clicked, those dishes are li
 The buttons update themselves dynamically when a new food type is added.
 
 Map, reduce, filter and join are used in this project.
+
+### 9. Video Background
+In this project, there is a preloader that is displayed on the screen until the page is loaded, and a video in the background of the page after the page is loaded.
+
+You can pause and play the video in the background with the button in the lower left corner of the page.
