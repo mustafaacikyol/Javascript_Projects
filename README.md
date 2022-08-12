@@ -76,3 +76,12 @@ Map, reduce, filter and join are used in this project.
 In this project, there is a preloader that is displayed on the screen until the page is loaded, and a video in the background of the page after the page is loaded.
 
 You can pause and play the video in the background with the button in the lower left corner of the page.
+
+### 10. Navigation Bar on Scroll
+The date in the footer section updates itself dynamically with the javascript code.
+
+When a new link is added or deleted in the navigation menu, the height of the menu dynamically adjusts itself.
+
+When scrolling more than the height of the navigation menu, the navigation menu changes to the fixed position and the go to top button appears.
+
+The default settings of the links in the navigation menu are blocked by javascript code, and when the link is clicked, it is written with javascript code to go to the relevant section. The reason why this is done is because the navigation menu is fixed after a certain scroll and the navigation menu with a screen width less than 800px is a hamburger menu, so the links are opened downwards, and therefore the height of the navigation bar is variable.
