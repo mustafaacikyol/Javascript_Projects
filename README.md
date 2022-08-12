@@ -85,3 +85,8 @@ When a new link is added or deleted in the navigation menu, the height of the me
 When scrolling more than the height of the navigation menu, the navigation menu changes to the fixed position and the go to top button appears.
 
 The default settings of the links in the navigation menu are blocked by javascript code, and when the link is clicked, it is written with javascript code to go to the relevant section. The reason why this is done is because the navigation menu is fixed after a certain scroll and the navigation menu with a screen width less than 800px is a hamburger menu, so the links are opened downwards, and therefore the height of the navigation bar is variable.
+
+### 11. Tabs
+There are 3 tab buttons in this project.
+
+When the buttons are clicked, it displays its own content on the screen.
