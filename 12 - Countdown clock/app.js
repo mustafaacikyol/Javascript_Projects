@@ -61,6 +61,10 @@ function getRemaingTime() {
 
     let arrValue = [Math.floor(remain / days), Math.floor((remain % days) / hours), Math.floor((remain % hours) / minutes), Math.floor((remain % minutes) / seconds)];
 
+    if (arrValue[index]<10) {
+      arrValue[index] = '0' + arrValue[index];
+    }
+
     item.innerHTML = arrValue[index];
 
   });
