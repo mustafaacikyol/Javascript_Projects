@@ -95,3 +95,10 @@ When the buttons are clicked, it displays its own content on the screen.
 Countdown clock is included in this project.
 
 When the time expires, the time expired message appears on the screen.
+
+### 13. Lorem Ipsum
+There is one form in this project.
+
+When you enter a number in the input and click the button, the number of paragraphs you enter is created and displayed on the screen.
+
+If you enter a number less than zero or greater than nine, only one paragraph is shown.
