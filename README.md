@@ -90,3 +90,8 @@ The default settings of the links in the navigation menu are blocked by javascri
 There are 3 tab buttons in this project.
 
 When the buttons are clicked, it displays its own content on the screen.
+
+### 12. Countdown Clock
+Countdown clock is included in this project.
+
+When the time expires, the time expired message appears on the screen.
