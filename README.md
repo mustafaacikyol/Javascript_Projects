@@ -102,3 +102,14 @@ There is one form in this project.
 When you enter a number in the input and click the button, the number of paragraphs you enter is created and displayed on the screen.
 
 If you enter a number less than zero or greater than nine, only one paragraph is shown.
+
+### 14. Grocery Bud
+With this project, you can create your grocery shopping list.
+
+You can delete and edit items from the grocery list you created.
+
+You can delete items one by one, or you can delete them all at once.
+
+Localstorage is also used in this project.
+
+The shopping list you create is stored in localstorage and your data comes from localstorage whenever you visit the application.
