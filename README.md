@@ -113,3 +113,10 @@ You can delete items one by one, or you can delete them all at once.
 Localstorage is also used in this project.
 
 The shopping list you create is stored in localstorage and your data comes from localstorage whenever you visit the application.
+
+### 15. Carousel Slider
+Carousel slider is included in this project.
+
+When the active codes are run, the slider works as a carousel.
+
+If you do not want the slider to work as a carousel, follow the steps I have specified in the comment lines inside the javascript file.
