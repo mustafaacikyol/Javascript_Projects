@@ -3,7 +3,7 @@ In this repository you can examine some good Javascript projects.
 
 I used website of https://www.freecodecamp.org to build these projects.
 
-In projects there are HTML, CSS and Javascript files and some images.
+In projects there are HTML, CSS, Javascript files and some images.
 
 In some projects I used CDN to get Bootstrap CSS. So you can't see any bootstrap.min.css file in the css folder.
 
